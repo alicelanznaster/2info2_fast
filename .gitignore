@@ -1,0 +1,5 @@
+DB_HOST=localhost
+DB_PORT=3306
+DB_NAME=aula_rest2i2
+DB_USER=api_aula_2info2
+DB_PASSWORD=AulaRest_2026!
